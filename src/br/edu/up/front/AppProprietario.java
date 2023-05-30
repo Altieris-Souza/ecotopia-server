@@ -1,8 +1,9 @@
 package br.edu.up.front;
 
-import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.time.LocalDate;
 import java.util.List;
+
 
 import br.edu.up.entidades.Proprietario;
 import br.edu.up.persistencia.ProprietarioPersistencia;

@@ -12,6 +12,7 @@ public class Principal {
 			System.out.println("===================================");
 			System.out.println("\n1. Proprietário");
 			System.out.println("2. Salão");
+			System.out.println("3. Veículos");
 			System.out.println("\n===================================");
 			opt = Console.readInt("\nSelecione uma opção: ");
 			
@@ -22,6 +23,10 @@ public class Principal {
 				
 				case 2:
 					new AppSalao();
+					break;
+					
+				case 3:
+					new AppVeiculo();
 					break;
 			}
 			
