@@ -9,6 +9,7 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+./scr/META-INF/persistence.xml
 
 # Package Files #
 *.jar
