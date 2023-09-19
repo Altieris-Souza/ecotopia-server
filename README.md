@@ -19,4 +19,4 @@ O Ecotopia é um sistema de backend projetado para auxiliar na coleta de lixo e 
 ## Tecnologias Utilizadas
 
 - Linguagem de Programação: Java
-- Banco de Dados: ...
+- Banco de Dados: PostgresSQL
