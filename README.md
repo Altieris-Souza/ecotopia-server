@@ -1,10 +1,6 @@
 <h1 align="center">Ecotopia - Backend</h1>
 
 <p align="center">
-  <img src="https://seu-logo.png" alt="Logo do Projeto" width="200" height="200">
-</p>
-
-<p align="center">
   <strong>Um sistema para registrar a coleta de resíduos e pontuar salões de beleza.</strong>
 </p>
 
